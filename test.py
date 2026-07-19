@@ -6,6 +6,7 @@ def bubbleSort(nums:list[int])->list[int]:
     return nums
 
 
+
 if __name__=="__main__":
     nums=[2,7,4,1,5,3,6]
     bubbleSort(nums)
